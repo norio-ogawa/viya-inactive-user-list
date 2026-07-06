@@ -1,0 +1,1 @@
+# viya-inactive-user-list
